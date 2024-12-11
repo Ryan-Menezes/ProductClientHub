@@ -10,3 +10,15 @@ C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\Produ
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.sourcelink.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll

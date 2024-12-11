@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductClientHub.Exceptions
-build_property.ProjectDir = C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Exceptions\
+build_property.ProjectDir = C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

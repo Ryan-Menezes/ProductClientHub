@@ -10,3 +10,15 @@ C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\Produ
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\refint\ProductClientHub.Exceptions.dll
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.pdb
 C:\Users\Ryan\Desktop\trabalhos\Estudo-C-Sharp\DOTNET\API\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ref\ProductClientHub.Exceptions.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.deps.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.sourcelink.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\refint\ProductClientHub.Exceptions.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ref\ProductClientHub.Exceptions.dll

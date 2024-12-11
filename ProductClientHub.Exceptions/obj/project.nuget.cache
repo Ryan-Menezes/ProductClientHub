@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "asFA0OC5XQBVwaO3+Qa91W0ZlQlS/xoRySQTHfXM6GZ0DENo0KGGje8PNrjqBckgXtFy2Uj1iCfsIIqiD0HACw==",
+  "dgSpecHash": "lwm+Yzh/ua+Ymj6SRmlWe1XfAnOYGxYvu+j67TpmPU/dljQA7D+hix5uS7A0455eAVoigibQ6REpBR3LNCyHhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Estudo-C-Sharp\\DOTNET\\API\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Projetos\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

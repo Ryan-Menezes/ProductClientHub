@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CfZdOVP0m0x3BVu5ZAlBdxwG7dYbyEHSup+BKFdYQHHi2z6PIfHfvjuvETb4tGmcroNbN3z7lPluE6Srs1YOZA==",
+  "dgSpecHash": "0OaE3fsf6t2mIEcD9Ok4v4nrOP7A3ju2x56ZD/lsM4l+JlLGtBOxHnx68CWNCsUom2jgAE8N4ZeoClBcjmg4fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Estudo-C-Sharp\\DOTNET\\API\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Projetos\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Ryan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

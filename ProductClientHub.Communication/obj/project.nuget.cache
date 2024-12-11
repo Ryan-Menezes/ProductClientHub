@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42iLS1mjrXWQx/nSSSYCklcdet1SHnvZmpWxxawlA/gsjBQIkWSMyOcsXz7uT7uK5yzJpoFZPZlduswhQimr5w==",
+  "dgSpecHash": "7fnBw0b7Gx4cPJFf6I4iclsUXbg+kxBOo3KJjfZxDNKPYqmmeEJ8vikvVD2uwPe/2Rf/+klyfWuFVTSA54Mekg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Estudo-C-Sharp\\DOTNET\\API\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\trabalhos\\Projetos\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

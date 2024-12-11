@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProductClientHub.API.UseCases.Clients.Register;
 using ProductClientHub.Communication.Requests;
 using ProductClientHub.Communication.Responses;
+using ProductClientHub.Exceptions;
+using ProductClientHub.Exceptions.ExceptionBase;
 
 namespace ProductClientHub.API.Controllers
 {
@@ -23,9 +26,15 @@ namespace ProductClientHub.API.Controllers
 
         [HttpPost]
         [ProducesResponseType(typeof(ClientResponse), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ErrorResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(ErrorResponse), StatusCodes.Status500InternalServerError)]
         public IActionResult Register([FromBody] ClientRequest request)
         {
-            return Created();
+            var useCase = new RegisterClientUseCase();
+
+            var response = useCase.Execute(request);
+
+            return Created(string.Empty, response);
         }
 
         [HttpPut]
