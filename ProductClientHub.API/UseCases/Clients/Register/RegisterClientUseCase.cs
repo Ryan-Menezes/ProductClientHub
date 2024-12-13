@@ -1,14 +1,15 @@
 ﻿using ProductClientHub.API.Entities;
 using ProductClientHub.API.Infrastructure;
+using ProductClientHub.API.UseCases.Clients.SharedValidator;
 using ProductClientHub.Communication.Requests;
 using ProductClientHub.Communication.Responses;
-using ProductClientHub.Exceptions;
+using ProductClientHub.Exceptions.ExceptionBase;
 
 namespace ProductClientHub.API.UseCases.Clients.Register
 {
     public class RegisterClientUseCase
     {
-        public ClientResponse Execute(ClientRequest request)
+        public ClientShortResponse Execute(ClientRequest request)
         {
             Validate(request);
 
@@ -23,7 +24,7 @@ namespace ProductClientHub.API.UseCases.Clients.Register
             db.Clients.Add(entity);
             db.SaveChanges();
 
-            return new ClientResponse
+            return new ClientShortResponse
             {
                 Id = entity.Id,
                 Name = entity.Name,
@@ -32,7 +33,7 @@ namespace ProductClientHub.API.UseCases.Clients.Register
 
         private void Validate(ClientRequest request)
         {
-            var validator = new RegisterClientValidator();
+            var validator = new RequestClientValidator();
 
             var result = validator.Validate(request);
 

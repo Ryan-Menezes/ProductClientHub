@@ -1,7 +1,6 @@
-﻿using ProductClientHub.Exceptions.ExceptionBase;
-using System.Net;
+﻿using System.Net;
 
-namespace ProductClientHub.Exceptions
+namespace ProductClientHub.Exceptions.ExceptionBase
 {
     public class ErrorOnValidationException : ProductClientHubException
     {
